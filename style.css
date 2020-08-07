@@ -1,0 +1,90 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+}
+.name{
+    font-size: 50px;
+    color: darkorange;
+}
+.bio{
+    font-size: 40px;
+}
+.sec1{ 
+    background-image: url(images/header-bg.png);  
+    background-repeat: no-repeat;   
+}
+.sec2{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat; 
+}
+.sec3{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.sec4{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.halfwidth{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+    padding-top: 10%;    
+}
+.work{
+    text-align: center;
+    font-size: 40px;
+}
+
+.halfwidth img{
+    width: 100%;
+    
+}
+a{
+    padding:10px 24px;
+    background-image: linear-gradient(salmon,tomato);
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+    font-weight: 700;
+}
+section{
+    height: 1000px;
+    
+}
+.dwn{
+    padding:10px 24px;
+    background-image: linear-gradient(180deg,salmon,pink);
+    -decoration: none;
+    textcolor: white;
+    border-radius: 4px;
+    font-weight: 700
+
+}
+.footer{
+    text-align: center;
+}
+.h2{
+    text-align: center;
+    font-size: 40px;
+}
+.f{
+    color: gray;
+} p{
+    text-align: center;
+    width: 50%;
+    padding-left: 25%;
+}
+.anc{
+    width: 40%;
+    display: inline-block;
+    margin-left: 25%;
+    padding-left: 5%;
+    padding-top: 5%; 
+    
+
+}
+footer{
+    text-align: center;
+}
